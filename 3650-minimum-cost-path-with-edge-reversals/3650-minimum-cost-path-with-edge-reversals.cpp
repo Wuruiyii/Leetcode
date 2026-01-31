@@ -4,27 +4,24 @@ public:
     {
         const long long INF = 1e18;
         
-        // 1. 邻接表存储（保留原逻辑）
         vector<vector<pair<int, long long>>> adj(n);
         for (auto& e : edges)
         {
-            int u = e[0];    // 改用int更合理（节点编号是int）
+            int u = e[0];    
             int v = e[1];
             long long w = e[2];
             adj[u].emplace_back(v, w);     // 正向边：u→v，权w
-            adj[v].emplace_back(u, 2 * w); // 反转边：v→u，权2w（原逻辑）
+            adj[v].emplace_back(u, 2 * w); // 反转边：v→u，权2w
         }
 
-        // 2. 距离数组：初始化为无穷大，起点0的距离为0
         vector<long long> min_dist(n, INF);
         min_dist[0] = 0; 
 
-        // 3. 优先队列（最小堆）：存储 (当前距离, 节点)，按距离升序排列
+        //  优先队列（最小堆）：存储 (当前距离, 节点)，按距离升序排列
         // 注意：C++优先队列默认是最大堆，需用greater<>改为最小堆
-        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<>> pq;
+        priority_queue< pair<long long, int>, vector<pair<long long, int>>, greater<> > pq;
         pq.emplace(0, 0); // 起点入堆
 
-        // 4. 优先队列版Dijkstra核心逻辑
         while (!pq.empty())
         {
             // 取出当前距离最小的节点
