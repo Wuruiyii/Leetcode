@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/Wuruiyii/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Wuruiyii/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -33,4 +34,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0788-rotated-digits](https://github.com/Wuruiyii/Leetcode/tree/main/0788-rotated-digits/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Wuruiyii/Leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
