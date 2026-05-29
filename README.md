@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Wuruiyii/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/Wuruiyii/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Wuruiyii/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Wuruiyii/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0788-rotated-digits](https://github.com/Wuruiyii/Leetcode/tree/main/0788-rotated-digits/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Wuruiyii/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
