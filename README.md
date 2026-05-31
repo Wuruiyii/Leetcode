@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Wuruiyii/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Wuruiyii/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2126-destroying-asteroids](https://github.com/Wuruiyii/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2540-minimum-common-value](https://github.com/Wuruiyii/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Wuruiyii/Leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Wuruiyii/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -52,4 +53,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2540-minimum-common-value](https://github.com/Wuruiyii/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2126-destroying-asteroids](https://github.com/Wuruiyii/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2126-destroying-asteroids](https://github.com/Wuruiyii/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 <!---LeetCode Topics End-->
