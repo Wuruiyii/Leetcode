@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Wuruiyii/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Wuruiyii/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Wuruiyii/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Wuruiyii/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Wuruiyii/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -73,4 +74,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Wuruiyii/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Wuruiyii/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
