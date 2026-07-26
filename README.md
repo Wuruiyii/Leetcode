@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Wuruiyii/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Wuruiyii/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Wuruiyii/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Wuruiyii/Leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Wuruiyii/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Wuruiyii/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Wuruiyii/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Wuruiyii/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Wuruiyii/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Wuruiyii/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Wuruiyii/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Wuruiyii/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Wuruiyii/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
